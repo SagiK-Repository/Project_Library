@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFC OpecCV Test", "MFC OpecCV Test\MFC OpecCV Test.vcxproj", "{87D020A5-80F8-4D79-8EB2-D46070FF680B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87D020A5-80F8-4D79-8EB2-D46070FF680B}.Debug|x64.ActiveCfg = Debug|x64
+		{87D020A5-80F8-4D79-8EB2-D46070FF680B}.Debug|x64.Build.0 = Debug|x64
+		{87D020A5-80F8-4D79-8EB2-D46070FF680B}.Debug|x86.ActiveCfg = Debug|Win32
+		{87D020A5-80F8-4D79-8EB2-D46070FF680B}.Debug|x86.Build.0 = Debug|Win32
+		{87D020A5-80F8-4D79-8EB2-D46070FF680B}.Release|x64.ActiveCfg = Release|x64
+		{87D020A5-80F8-4D79-8EB2-D46070FF680B}.Release|x64.Build.0 = Release|x64
+		{87D020A5-80F8-4D79-8EB2-D46070FF680B}.Release|x86.ActiveCfg = Release|Win32
+		{87D020A5-80F8-4D79-8EB2-D46070FF680B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF89D88B-B2A7-4031-91B7-1D240CEBB47C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+속성 > 링커 > 입력 > 추가종속성
+debug > opencv_world453d.lib
+release > opencv_world453.lib

@@ -1,0 +1,10 @@
+
+------------메모장 한줄 씩 받아오기
+char line[255];
+FILE* fr1 = fopen("minisecond.txt", "r");
+if (fr1 == NULL) 
+  printf("파일 minisecond.txt를 열 수 없습니다.\n");
+while (fgets(line, sizeof(line), fr1) != NULL) {
+  printf("Running Time : %s msec", line);
+} //한글인식할 시 메모장을 ANSI형식으로 인코딩
+--------------
