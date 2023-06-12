@@ -1,0 +1,21 @@
+# 참조 리스트
+
+System
+System.Core
+
+# FluentAssertions
+
+FluentAssertions
+System.Configuration
+System.Data
+System.Net.Http
+System.Runtime.CompilerServices.Unsafe
+System.Threading.Tasks.Extensions
+System.Xml
+System.Xml.Linq
+
+# xunit
+
+xunit.abstractions
+xunit.core
+xunit.execution.desktop

@@ -1,0 +1,14 @@
+# 참조 리스트
+
+Microsoft.CSharp
+PresentationCore
+PresentationFramework
+System
+System.Core
+System.Data
+System.Data.DataSetExtentions
+System.Net.Http
+System.Xaml
+System.Xml
+System.Xml.Linq
+WindowsBase
