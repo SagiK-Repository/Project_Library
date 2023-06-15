@@ -1,0 +1,20 @@
+vtkConeSource   > 3D 객체 지정 (크기 설정가능)
+vtkPolyDataMapper > 3D정보저장
+vtkActor > 색, 속성, 위치 등등 지정, 3D스프라이트
+vtkRenderer > 3D공간 구성 (스프라이트 넣기 등등)
+vtkRenderWindow > 3D공간을 띄울 창
+vtkRenderWindowInteractor > 윈도우 상호작용
+vtkInteractorStyleTrackballCamera > 윈도우 마무스컨트롤모드?
+iren->Initialize();
+iren->Start();
+
+
+
+vtkConeSource
+vtkPolyDataMapper
+vtkActor
+vtkProperty > 속성정보
+vtkActor 2
+vtkRenderer
+vtkRenderWindow
+renWin->Render(); //render Image // 3D공간 띄우기
